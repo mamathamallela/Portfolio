@@ -467,7 +467,7 @@ body {
 /* ✅ Left side image */
 .contact-image {
   flex: 1;
-  background-image: url('https://t4.ftcdn.net/jpg/00/88/74/49/360_F_88744916_2d10nlc9o5pYt7maCIQjZyePT7zL6Ujz.jpg');
+  background-image: url('https://static4.depositphotos.com/1001763/306/i/600/depositphotos_3066435-stock-photo-contact-me.jpg');
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -552,9 +552,7 @@ body {
 .page-container {
   width: 100%;
   min-height: 100vh;
-  background-image: url("/background.webp");
-
-  /* background-image: url('C:/Users/Mamatha/OneDrive/Desktop/portfolio/port/public/background.webp');  */
+  background-image: url('C:/Users/Mamatha/OneDrive/Desktop/portfolio/port/public/background.webp'); 
   background-size: cover;  
   background-position: center;  
   background-repeat: no-repeat; 
